@@ -1,0 +1,1 @@
+powershell -f chocolatey-auto-update.ps1
